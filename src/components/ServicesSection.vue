@@ -23,7 +23,7 @@
                     <p class="text-gray-500 mb-6 flex-grow text-sm">Ideal para iniciar tu cambio de hábitos con un plan
                         100% personalizado.</p>
                     <div class="text-2xl font-extrabold text-nutri-teal mb-6">$400 MXN</div>
-                    <a href="https://wa.me/528710000000?text=Hola%20Ale,%20me%20interesa%20agendar%20el%20Plan%20Individual%20de%20$400."
+                    <a href="https://wa.me/528712629415?text=Hola%20Ale,%20me%20interesa%20agendar%20el%20Plan%20Individual%20de%20$400."
                         target="_blank" rel="noopener noreferrer"
                         class="w-full border-2 border-nutri-teal text-nutri-teal hover:bg-nutri-teal hover:text-white font-bold py-2 px-4 rounded-full transition duration-300 mb-6 text-center text-sm">
                         Agendar plan individual
@@ -45,7 +45,7 @@
                     <p class="text-gray-500 mb-6 flex-grow text-sm">Nutrición y rutina de ejercicio para potenciar tus
                         resultados.</p>
                     <div class="text-2xl font-extrabold text-nutri-green mb-6">$500 MXN</div>
-                    <a href="https://wa.me/528710000000?text=Hola%20Ale,%20quiero%20el%20Plan%20Individual%20con%20Entrenamiento%20de%20$500."
+                    <a href="https://wa.me/528712629415?text=Hola%20Ale,%20quiero%20el%20Plan%20Individual%20con%20Entrenamiento%20de%20$500."
                         target="_blank" rel="noopener noreferrer"
                         class="w-full bg-nutri-green hover:bg-nutri-teal text-white font-bold py-2 px-4 rounded-full transition duration-300 shadow-md mb-6 text-center text-sm">
                         Agendar plan deportivo
@@ -65,7 +65,7 @@
                     <p class="text-gray-500 mb-6 flex-grow text-sm">Logren sus objetivos juntos con planes adaptados a
                         cada uno.</p>
                     <div class="text-2xl font-extrabold text-nutri-teal mb-6">$600 MXN</div>
-                    <a href="https://wa.me/528710000000?text=Hola%20Ale,%20nos%20interesa%20agendar%20el%20Plan%20en%20Pareja%20de%20$600."
+                    <a href="https://wa.me/528712629415?text=Hola%20Ale,%20nos%20interesa%20agendar%20el%20Plan%20en%20Pareja%20de%20$600."
                         target="_blank" rel="noopener noreferrer"
                         class="w-full border-2 border-nutri-teal text-nutri-teal hover:bg-nutri-teal hover:text-white font-bold py-2 px-4 rounded-full transition duration-300 mb-6 text-center text-sm">
                         Agendar en pareja
@@ -85,7 +85,7 @@
                     <p class="text-gray-300 mb-6 flex-grow text-sm">Mejoren los hábitos en casa (hasta 4 integrantes).
                     </p>
                     <div class="text-2xl font-extrabold text-white mb-6">$1,000 MXN</div>
-                    <a href="https://wa.me/528710000000?text=Hola%20Ale,%20queremos%20agendar%20el%20Plan%20Familiar%20de%20$1000."
+                    <a href="https://wa.me/528712629415?text=Hola%20Ale,%20queremos%20agendar%20el%20Plan%20Familiar%20de%20$1000."
                         target="_blank" rel="noopener noreferrer"
                         class="w-full bg-nutri-teal hover:bg-nutri-green text-white font-bold py-2 px-4 rounded-full transition duration-300 mb-6 text-center text-sm">
                         Agendar plan familiar
