@@ -48,7 +48,12 @@ const anio = new Date().getFullYear()
         </div>
     </section>
 
-    <footer class="bg-[#1a1e21] text-gray-500 text-center py-6 text-sm">
-        <p>Copyright © {{ anio }} Alejandra Cervantes Nutrición | Desarrollado con 💚</p>
+    <footer class="bg-[#1a1e21] text-gray-400 text-sm border-t border-white/5">
+        <div
+            class="max-w-6xl mx-auto px-6 py-8 pb-28 md:pb-8 flex flex-col sm:flex-row items-center justify-center gap-y-1 gap-x-3 text-center">
+            <p>© {{ anio }} Alejandra Cervantes Nutrición</p>
+            <span class="hidden sm:inline text-gray-600" aria-hidden="true">|</span>
+            <p>Desarrollado con <span aria-hidden="true">💚</span></p>
+        </div>
     </footer>
 </template>
