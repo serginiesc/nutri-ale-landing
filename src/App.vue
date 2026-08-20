@@ -3,7 +3,8 @@ import HeroSection from './components/HeroSection.vue'
 import TestimonialsSection from './components/TestimonialsSection.vue'
 import AboutSection from './components/AboutSection.vue'
 import ServicesSection from './components/ServicesSection.vue'
-import ContactSection from './components/ContactSection.vue'; 
+import ContactSection from './components/ContactSection.vue'
+import FloatingWhatsApp from './components/FloatingWhatsApp.vue'
 </script>
 
 <template>
@@ -15,5 +16,7 @@ import ContactSection from './components/ContactSection.vue';
       <ServicesSection />
       <ContactSection />
     </main>
+
+    <FloatingWhatsApp />
   </div>
 </template>

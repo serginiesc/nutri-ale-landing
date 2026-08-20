@@ -6,6 +6,16 @@ import 'swiper/css/pagination';
 
 const modules = [Autoplay, Pagination];
 
+// Iniciales para el avatar mientras no haya fotos de los clientes.
+function iniciales(nombre) {
+    return nombre
+        .split(' ')
+        .map((parte) => parte[0])
+        .join('')
+        .slice(0, 2)
+        .toUpperCase()
+}
+
 const testimonials = [
     {
         id: 1,
@@ -35,7 +45,7 @@ const testimonials = [
 </script>
 
 <template>
-    <section class="bg-white py-20 px-6">
+    <section id="testimonios" class="bg-white py-20 px-6 scroll-mt-24">
         <div class="max-w-6xl mx-auto">
 
             <div class="text-center mb-12">
@@ -58,14 +68,18 @@ const testimonials = [
                             {{ testimonial.tag }}
                         </span>
 
-                        <div class="text-nutri-green text-3xl mb-4 font-serif">"</div>
+                        <div class="text-nutri-green text-3xl mb-4 font-serif" aria-hidden="true">"</div>
 
                         <p class="text-gray-600 mb-8 italic flex-grow leading-relaxed">
                             {{ testimonial.text }}
                         </p>
 
                         <div class="flex items-center gap-3 mt-auto">
-                            <div class="w-10 h-10 bg-gray-200 rounded-full flex-shrink-0"></div>
+                            <div
+                                class="w-10 h-10 bg-nutri-teal/15 text-nutri-teal rounded-full flex-shrink-0 flex items-center justify-center text-xs font-extrabold"
+                                aria-hidden="true">
+                                {{ iniciales(testimonial.name) }}
+                            </div>
                             <p class="text-nutri-dark font-extrabold text-sm uppercase">
                                 {{ testimonial.name }}
                             </p>
